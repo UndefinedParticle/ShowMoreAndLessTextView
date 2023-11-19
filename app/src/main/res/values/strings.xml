@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoreAndLessFunctionality</string>
+    <string name="hinttext">Here I\'m implementing the functionality for displaying expandable/collapsible text in a TextView. It allows the user to show more or less text content by clicking on a \"...more\" or \"...less\" link within the text. The goal is to provide a user-friendly way to manage long text content in a limited space.</string>
+</resources>
